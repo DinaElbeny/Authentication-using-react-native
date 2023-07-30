@@ -15,9 +15,9 @@ React native
 Javascript
 
 <h2 >🛠️ Installation Steps: </h2>
-1. React Native
+<p>1. React Native</p>
 
-2. Javascript
+<p>2. Javascript</p>
 
 <p>3. React navigation package :</p>
 
