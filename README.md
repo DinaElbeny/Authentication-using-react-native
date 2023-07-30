@@ -13,6 +13,7 @@ reset their password if they forgot it.
 
 <h2 >💻 Built with </h2>
 React native
+<br>
 Javascript
 
 <h2 >🛠️ Installation Steps: </h2>
